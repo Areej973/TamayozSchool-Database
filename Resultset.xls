@@ -1,0 +1,9 @@
+student_id,student_name,birth_date,gender,enrollment_date,email,student_level,track,gpa
+1,"Areej Saad",1999-07-03,F,2018-07-09,areej.saad@gmail.com,4,Computer,98.90
+2,"Ahmed Nasser",2008-04-22,M,2020-09-01,ahmed.nasser@gmail.com,6,Science,100.00
+3,"Fatimah Ali",2009-01-17,F,2020-09-01,fatimah.ali@gmail.com,5,Computer,92.30
+4,"Sara Mohammed",2010-05-30,F,2021-09-05,sara.mohammed@gmail.com,3,Science,78.60
+5,"Omar Khaled",2010-06-21,M,2021-09-05,omar.khaled@gmail.com,1,Computer,60.40
+6,"Hassan Abdullah",2009-12-19,M,2020-09-01,hassan.abdullah@gmail.com,2,Science,61.20
+7,"Amina Noor",2010-09-08,F,2021-09-05,amina.noor@gmail.com,1,Science,64.80
+8,"Ali Salman",2008-11-12,M,2019-09-01,ali.salman@gmail.com,6,Computer,100.00
